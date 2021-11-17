@@ -1,0 +1,7 @@
+{
+  "name": "cssw",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
